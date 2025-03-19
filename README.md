@@ -1,11 +1,14 @@
-#Invariant semantic domain generalization shuffle network for cross-scene hyperspectral image classification
+Invariant semantic domain generalization shuffle network for cross-scene hyperspectral image classification
+=====================
 
-##envi：
+envi：
+-------------------
+
 pyhton 3.8
 torch 1.11.0
 
-
-##If you find our work helpful to you, please cite it.
+If you find our work helpful to you, please cite it.
+-------------------
 
 @article{ ISDGS,
 Author = {Gao, Jingpeng and Ji, Xiangyu and Ye, Fang and Chen, Geng},
